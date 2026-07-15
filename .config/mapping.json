@@ -1,0 +1,36 @@
+{
+  "chk 10 web": {
+    "field": "Aspetos Chk 10 web",
+    "options": {
+      "1": "1 - Menu",
+      "2": "2 - Títulos",
+      "3": "3 - Tabelas",
+      "4": "4 - Formulários",
+      "5": "5 - Gráficos",
+      "6": "6 - Contraste",
+      "7": "7 - Players",
+      "8": "8 - Estrutura",
+      "9": "9 - Modais",
+      "10": "10 - PDF"
+    }
+  },
+  "chk conteudo": {
+    "field": "Aspetos Chk Conteúdo",
+    "options": {
+      "1": "1 - Clareza do conteúdo",
+      "2": "2 - Usabilidade do conteúdo",
+      "3": "3 - Estrutura da navegação",
+      "4": "4 - Estrutura da informação",
+      "5": "5 - Elementos interativos"
+    }
+  },
+  "chk transacao": {
+    "field": "Aspetos Chk Transação",
+    "options": {
+      "1": "1 - Formulários",
+      "2": "2 - Campos",
+      "3": "3 - Resposta",
+      "4": "4 - Erros"
+    }
+  }
+}

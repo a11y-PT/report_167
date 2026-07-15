@@ -1,0 +1,231 @@
+blank_issues_enabled: false
+
+issue_templates:
+  - name: R 1.1 - 10 Aspetos Web
+    description: requisito 1.1, 10 aspetos web
+    file: a0101.md
+
+  - name: R 1.2 - 10 Aspetos Web
+    description: requisito 1.2, 10 aspetos web
+    file: a0102.md
+
+  - name: R 1.3 - 10 Aspetos Web
+    description: requisito 1.3, 10 aspetos web
+    file: a0103.md
+
+  - name: R 2.1 - 10 Aspetos Web
+    description: requisito 2.1, 10 aspetos web
+    file: a0201.md
+
+- name: R 2.2 - 10 Aspetos Web
+    description: requisito 2.2, 10 aspetos web
+    file: a0202.md
+
+- name: R 3.1 - 10 Aspetos Web
+    description: requisito 3.1, 10 aspetos web
+    file: a0301.md
+
+- name: R 3.2 - 10 Aspetos Web
+    description: requisito 3.2, 10 aspetos web
+    file: a0302.md
+
+- name: R 4.1 - 10 Aspetos Web
+    description: requisito 4.1, 10 aspetos web
+    file: a0401.md
+
+- name: R 4.2 - 10 Aspetos Web
+    description: requisito 4.2, 10 aspetos web
+    file: a0402.md
+
+- name: R 4.3 - 10 Aspetos Web
+    description: requisito 4.3, 10 aspetos web
+    file: a0403.md
+
+- name: R 5.1 - 10 Aspetos Web
+    description: requisito 5.1, 10 aspetos web
+    file: a0501.md
+
+- name: R 5.2 - 10 Aspetos Web
+    description: requisito 5.2, 10 aspetos web
+    file: a0502.md
+
+- name: R 5.3 - 10 Aspetos Web
+    description: requisito 5.3, 10 aspetos web
+    file: a0503.md
+
+- name: R 6.1 - 10 Aspetos Web
+    description: requisito 6.1, 10 aspetos web
+    file: a0601.md
+
+- name: R 6.2 - 10 Aspetos Web
+    description: requisito 6.2, 10 aspetos web
+    file: a0602.md
+
+- name: R 7.1 - 10 Aspetos Web
+    description: requisito 7.1, 10 aspetos web
+    file: a0701.md
+
+- name: R 7.2 - 10 Aspetos Web
+    description: requisito 7.2, 10 aspetos web
+    file: a0702.md
+
+- name: R 8.1 - 10 Aspetos Web
+    description: requisito 8.1, 10 aspetos web
+    file: a0801.md
+
+- name: R 8.2 - 10 Aspetos Web
+    description: requisito 8.2, 10 aspetos web
+    file: a0802.md
+
+- name: R 8.3 - 10 Aspetos Web
+    description: requisito 8.3, 10 aspetos web
+    file: a0803.md
+
+- name: R 8.4 - 10 Aspetos Web
+    description: requisito 8.4, 10 aspetos web
+    file: a0804.md
+
+- name: R 8.5 - 10 Aspetos Web
+    description: requisito 8.5, 10 aspetos web
+    file: a0805.md
+
+- name: R 9.1 - 10 Aspetos Web
+    description: requisito 9.1, 10 aspetos web
+    file: a0901.md
+
+- name: R 9.2 - 10 Aspetos Web
+    description: requisito 9.2, 10 aspetos web
+    file: a0902.md
+
+- name: R 9.3 - 10 Aspetos Web
+    description: requisito 9.3, 10 aspetos web
+    file: a0903.md
+
+- name: R 9.4 - 10 Aspetos Web
+    description: requisito 9.4, 10 aspetos web
+    file: a0904.md
+
+- name: R 10.1 - 10 Aspetos Web
+    description: requisito 10.1, 10 aspetos web
+    file: a1001.md
+
+- name: R 1.1 - Conteúdo
+    description: requisito 1.1, conteúdo
+    file: c0101.md
+
+- name: R 1.2 - Conteúdo
+    description: requisito 1.2, conteúdo
+    file: c0102.md
+
+- name: R 1.3 - Conteúdo
+    description: requisito 1.3, conteúdo
+    file: c0103.md
+
+- name: R 1.4 - Conteúdo
+    description: requisito 1.4, conteúdo
+    file: c0104.md
+
+- name: R 2.1 - Conteúdo
+    description: requisito 2.1, conteúdo
+    file: c0201.md
+
+- name: R 2.2 - Conteúdo
+    description: requisito 2.2, conteúdo
+    file: c0202.md
+
+- name: R 2.3 - Conteúdo
+    description: requisito 2.3, conteúdo
+    file: c0203.md
+
+- name: R 2.4 - Conteúdo
+    description: requisito 2.4, conteúdo
+    file: c0204.md
+
+- name: R 3.1 - Conteúdo
+    description: requisito 3.1, conteúdo
+    file: c0301.md
+
+- name: R 3.2 - Conteúdo
+    description: requisito 3.2, conteúdo
+    file: c0302.md
+
+- name: R 3.3 - Conteúdo
+    description: requisito 3.3, conteúdo
+    file: c0303.md
+
+- name: R 4.1 - Conteúdo
+    description: requisito 4.1, conteúdo
+    file: c0401.md
+
+- name: R 4.2 - Conteúdo
+    description: requisito 4.2, conteúdo
+    file: c0402.md
+
+- name: R 5.1 - Conteúdo
+    description: requisito 5.1, conteúdo
+    file: c0501.md
+
+- name: R 5.2 - Conteúdo
+    description: requisito 5.2, conteúdo
+    file: c0502.md
+
+- name: R 5.3 - Conteúdo
+    description: requisito 5.3, conteúdo
+    file: c0503.md
+
+- name: R 1.1 - Conteúdo
+    description: requisito 5.4, conteúdo
+    file: c0504.md
+
+- name: R 1.1 - Transação
+    description: requisito 1.1, transação
+    file: t0101.md
+
+- name: R 1.2 - Transação
+    description: requisito 1.2, transação
+    file: t0102.md
+
+- name: R 1.3 - Transação
+    description: requisito 1.3, transação
+    file: t0103.md
+
+- name: R 2.1 - Transação
+    description: requisito 2.1, transação
+    file: t0201.md
+
+- name: R 2.2 - Transação
+    description: requisito 2.2, transação
+    file: t0202.md
+
+- name: R 2.3 - Transação
+    description: requisito 2.3, transação
+    file: t0203.md
+
+- name: R 2.4 - Transação
+    description: requisito 2.4, transação
+    file: t0204.md
+
+- name: R 3.1 - Transação
+    description: requisito 3.1, transação
+    file: t0301.md
+
+- name: R 3.2 - Transação
+    description: requisito 3.2, transação
+    file: t0302.md
+
+- name: R 4.1 - Transação
+    description: requisito 4.1, transação
+    file: t0401.md
+
+- name: R 4.2 - Transação
+    description: requisito 4.2, transação
+    file: t0402.md
+
+- name: R 4.3 - Transação
+    description: requisito 4.3, transação
+    file: t0403.md
+
+- name: R 4.4 - Transação
+    description: requisito 4.4, transação
+    file: t0404.md
+
