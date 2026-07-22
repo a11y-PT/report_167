@@ -1,6 +1,6 @@
 ---
 website: "Portal do Utente da ULS Lezíria"          # Entre as aspas escreve o nome do website
-date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "20/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://myhds.hds.min-saude.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://myhds.hds.min-saude.pt/accessibility-declaration" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "Unidade Local de Saúde da Lezíria"         # Entre as aspas escrever o nome do owner do website
